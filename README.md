@@ -5,6 +5,8 @@ Created by Mohammad Rashid Nazir
 
 #How to Use
 
+before using it install pytube in you terminal (pip install pytube)
+
 for using this code open Pytube File and copy the total code and paste it on/in your Python IDE
 
 #Must read
